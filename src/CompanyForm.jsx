@@ -29,7 +29,7 @@ function CompanyForm() {
         <h2>Davlat</h2>
         <input className="input" type="text" />
 
-        <h2>Hodimpal soni..</h2>
+        <h2>Hodimlar soni..</h2>
         <input className="input" type="text" />
 
         <h2>Izoh</h2>
