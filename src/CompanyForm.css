@@ -1,0 +1,36 @@
+.company-form {
+  text-align: left;
+}
+
+.company-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-field {
+  width: 702px;
+  height: 56px;
+  margin-bottom: 20px;
+}
+
+.phone-input {
+  display: flex;
+  align-items: center;
+}
+
+.social-icons img {
+  margin-right: 10px;
+}
+
+.input {
+  border-radius: 50px;
+  width: 550px;
+  height: 50px;
+}
+
+.Izoh {
+  width: 702px;
+  height: 200px;
+}

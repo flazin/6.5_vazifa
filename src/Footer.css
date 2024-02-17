@@ -1,0 +1,12 @@
+footer {
+  margin-top: 40px;
+}
+
+footer button {
+  background-color: rgb(4, 41, 143);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  cursor: pointer;
+}
